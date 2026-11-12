@@ -92,4 +92,4 @@ pytest
 
 ## License
 
-MIT. Add a `LICENSE` file before publishing.
+MIT.
