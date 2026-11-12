@@ -8,7 +8,7 @@ I wrote it to ask things like "what's unread from the Studierendenrat this week?
 
 ## Setup
 
-You need Python 3.10+ and an OVGU account. If you're off campus, `cyrus.ovgu.de` may only resolve over the university VPN.
+You need Python 3.10+ and an OVGU account.
 
 ```bash
 git clone https://github.com/cvcvka5/ovgu-webmail-mcp.git
